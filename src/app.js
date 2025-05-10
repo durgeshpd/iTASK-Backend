@@ -19,7 +19,7 @@ app.use(cookieParser());
 // Import routes (auth and task routes)
 const authRouter = require('./routes/auth');
 const taskRouter = require('./routes/task');
-const profileRouter = require('./routes/profile');
+const profileRouter = require('./routes/Profile');
 
 app.use("/", authRouter);
 app.use("/", profileRouter);
