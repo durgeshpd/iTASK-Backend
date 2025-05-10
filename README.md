@@ -1,6 +1,7 @@
-iTask Project
-iTask is a powerful task management and productivity platform designed to help teams organize, track, and collaborate on their projects efficiently. Whether you're managing personal tasks or working on team projects, iTask provides the tools you need to stay organized and productive.
+DEVCONN Project DEVCONN is a platform where developers can connect, collaborate, and chat with each other in real time.
 
-🔗 To View the Project:
-➡️  Visit iTask
-This link takes you directly to the iTask dashboard, where you can manage tasks, view project progress, and customize your workspace for maximum productivity.
+It provides a minimal yet powerful setup for building communication and collaboration features between developers.
+
+🔗 To View the Project: ➡️ Visit: http://51.21.190.33/devconn/
+
+This link takes you directly to the login page of the DEVCONN platform.
